@@ -1,2 +1,8 @@
 streamlit
+pandas
 beautifulsoup4
+requests
+pydub
+speechrecognition
+deep−translator
+openai−whisper
